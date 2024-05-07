@@ -5,9 +5,9 @@ Before running this project, please ensure MongoDB is installed and properly set
 2. Create a `data/db` directory in your home folder to store the database files.
 3. Navigate to the `bin` folder inside your MongoDB installation directory.
 4. Start MongoDB with the following command:
-'''bash
+```bash
 ./mongod --dbpath /Users/data
-'''
+```
 
 
 
