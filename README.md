@@ -1,5 +1,3 @@
-## Prerequisites
-
 ### MongoDB Installation
 Before running this project, please ensure MongoDB is installed and properly set up:
 
