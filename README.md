@@ -40,5 +40,5 @@ The script will generate two output files:
 - `non_unique_sequences.csv` - Lists non-unique sequences, detailing the total number of occurrences and the count of occurrences in each individual file.
 
 
-## ## Example Outputs
+## Example Outputs
 Please refer to the `examples` folder in this repository to review the output files that have been previously generated
